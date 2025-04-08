@@ -2,29 +2,31 @@
 A lightweight Chrome extension that helps you stay focused by blocking distracting websites for a user-defined number of hours. When you attempt to revisit the blocked site, the extension shows a countdown and notifies you of the remaining block duration before automatically closing the tab.
 
 🧠 Features
-⏳ Block websites for custom number of hours (1–24)
 
-⛔ Instant blocking with a 3-second countdown
+•⏳ Block websites for custom number of hours (1–24)
 
-🔁 Shows remaining time if you revisit a blocked website
+•⛔ Instant blocking with a 3-second countdown
 
-📦 Uses Chrome local storage for persistence
+•🔁 Shows remaining time if you revisit a blocked website
 
-🧼 Clean and minimal popup 
+•📦 Uses Chrome local storage for persistence
+
+•🧼 Clean and minimal popup 
 
 
 🛠️ How It Works
-When you open the popup, it displays the current website.
 
-You enter the number of hours you'd like to block the site for (1–24).
+•When you open the popup, it displays the current website.
 
-The site gets added to a block list with an expiration timestamp.
+•You enter the number of hours you'd like to block the site for (1–24).
 
-When you revisit a blocked site:
+•The site gets added to a block list with an expiration timestamp.
 
-An alert shows the remaining block time
+•When you revisit a blocked site:
 
-The tab is automatically closed after alert confirmation
+->An alert shows the remaining block time
+
+->The tab is automatically closed after alert confirmation
 
 
 
