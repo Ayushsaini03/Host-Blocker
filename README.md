@@ -10,7 +10,7 @@ A lightweight Chrome extension that helps you stay focused by blocking distracti
 
 📦 Uses Chrome local storage for persistence
 
-🧼 Clean and minimal popup UI
+🧼 Clean and minimal popup 
 
 
 🛠️ How It Works
